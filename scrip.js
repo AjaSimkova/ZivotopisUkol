@@ -1,0 +1,1 @@
+var topPosition = $('.floating-div').offset().top - 10;
